@@ -1,0 +1,10 @@
+Explain Difference between micro, mini , mainframe and super computer
+
+micro  			| 	mini 		| 		mainframe 	| supercomputer
+small , personal	|mid sized for organizin|Powerful multi-user for bulk da|Extremly powerful for complex 
+			|business		|ta processing			|scientific calculations
+low to moderate performa|moderate to high	|very high			|extremly high
+nce
+small usuage , PC 	|Research Labs 		| Banks , airlines , large scale|Weather forecasting , simulati
+						|  data processing		|ons , AI , space reasearch
+
