@@ -1,0 +1,28 @@
+Peripherial Component Interconnect:
+1. it is a computer bus standard developed in 1990s for attaching peripherial devices to the computer motherboard
+2. it does data transfer between CPU and the external devices
+3. A peripherial device is a device which connects with a computer and does a specific task with the help of it
+Key features of PCI :
+1. Data transfer method : 
+	PCI is a parallel bus that operates synchronously on a single clock signal.
+	it supports both 32 bit and 64bit data transfer
+	since it is a parallel bus and synchronized , it is much faster
+	clock signal : it is the signal which oscillates between the high and the low state . because of which the digital circuit performs in action.
+2. bus mastering : 
+	allows devices to intitiate data transfer without involving CPU
+3. automatic configuration : 
+	configures connected devices to work with other PCI components
+4. Compatibility : 
+	PCI has backward compatibility with some PCI devices
+Versions : 
+	PCIe : uses serial communication instead of parallel , : low latency , PCIe has replaced PCI after 2007
+Applications : 
+	desktop computers, 
+	graphic cards , sound cards , ssds etc
+PCI BUS ARCHITECTURE : 
+1. architecture is based upon ISA and VL 
+2. PCI provides connection directly to the system memory which improves the performance.
+3. it has now 66mhz frequency.
+brust mode : allows multiple set of data to be sent
+full bus mastering : ability of the devices to reach the processor direclty
+
