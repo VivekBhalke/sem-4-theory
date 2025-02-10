@@ -1,0 +1,22 @@
+Block diagram of basic organization of computers ? 
+1. Organization of computer system has fundamental components and their interconnections which allows them to work together , these components can be divided into hardware and software components:
+Hardware Components : 
+1. CPU (Central Processing Unit) : 
+	it is brain ,
+	it has : 
+	1. ALU (Arithmetic and Logic Unit) : 
+		does all arithmetic and logic operations
+	2. Control Unit : 
+		it directs the operation of the processes and co-ordinates the activities of other components by fetching interpreting instructions from memory
+2. Main Memory or Primary Memory : 
+	Commonly known as RAM , 
+	holds data and instructions temporarily 
+	has series of memory locations each identified by using addresses
+
+				Memory :
+		Primary (RAM)			Secondary (ROM)
+	DRAM 		SRAM 		PROM 		EPROM
+							EEPROM 	UVEPROM
+
+3. Secondary memory devices : 
+	store large data , permanently, cheaper than RAM
